@@ -106,6 +106,3 @@ Training and test data are read and merged into single data frame. Features are 
 |fBodyBodyGyroMagStandard|-1.0000  |-0.9781  |-0.8275  |-0.7000  |-0.4713  | 1.0000  |
 |fBodyBodyGyroJerkMagMean|-1.0000  |-0.9921  |-0.9453  |-0.7798  |-0.6122  | 1.0000  |
 |fBodyBodyGyroJerkMagStandard|-1.0000  |-0.9926  |-0.9382  |-0.7922  |-0.6437  | 1.0000  |
-
-   
-© Sudha Bhandari 2015 All Rights reserved.
